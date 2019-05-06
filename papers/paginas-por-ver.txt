@@ -1,0 +1,8 @@
+
+ANALISIS DE TOPICOS
+https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21
+
+https://medium.com/@alexisperrier/topic-modeling-of-twitter-timelines-in-python-bb91fa90d98d
+
+LIBRERIAS
+https://pypi.org/project/pyLDAvis/2.1.1/
