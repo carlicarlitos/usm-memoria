@@ -4,5 +4,9 @@ https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4e
 
 https://medium.com/@alexisperrier/topic-modeling-of-twitter-timelines-in-python-bb91fa90d98d
 
+http://opac.pucv.cl/pucv_txt/txt-5000/UCD5100_01.pdf
+
+https://www.machinelearningplus.com/nlp/gensim-tutorial/
+
 LIBRERIAS
 https://pypi.org/project/pyLDAvis/2.1.1/
