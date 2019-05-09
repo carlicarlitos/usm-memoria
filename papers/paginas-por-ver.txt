@@ -10,3 +10,5 @@ https://www.machinelearningplus.com/nlp/gensim-tutorial/
 
 LIBRERIAS
 https://pypi.org/project/pyLDAvis/2.1.1/
+
+https://github.com/nikicc/twitter-emotion-recognition
