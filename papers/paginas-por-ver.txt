@@ -8,6 +8,8 @@ http://opac.pucv.cl/pucv_txt/txt-5000/UCD5100_01.pdf
 
 https://www.machinelearningplus.com/nlp/gensim-tutorial/
 
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#17howtofindtheoptimalnumberoftopicsforlda
+
 LIBRERIAS
 https://pypi.org/project/pyLDAvis/2.1.1/
 

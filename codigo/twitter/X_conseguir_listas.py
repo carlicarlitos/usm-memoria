@@ -21,12 +21,13 @@ twitter       = Twython(APP_KEY, access_token=ACCESS_TOKEN)
 
 
 usuarios = bd_usuarios.find({})
-users = usuarios#[:3]
+users = usuarios
 total = 0
 
 #conseguir amigos o seguidos
 for usuario in users:
     userid = usuario["id"]
+    print("usuario: " + str(userid))
     amigos = []
     siguiente = -1
     #ciclo hasta que no hayan más paginas de amigos
@@ -45,8 +46,9 @@ for usuario in users:
                 print("esperando un minuto")
             else:
                 limite_ocupado = 0
+        
         #get seguidos
-
+        print("consultando amigos")
         consulta_amigos = twitter.get_friends_ids(user_id = userid, cursor = siguiente)
         amigos.append(consulta_amigos["ids"])
         siguiente = consulta_amigos["next_cursor"]
@@ -54,7 +56,7 @@ for usuario in users:
     myquery = { "id": userid }
     newvalues = { "$set": { "amigos": amigos } }
     agregar_amigos = bd_usuarios.update_one(myquery, newvalues)
-
+"""
 #conseguir seguidores
 for usuario in users:
     userid = usuario["id"]
@@ -85,3 +87,4 @@ for usuario in users:
     myquery = { "id": userid }
     newvalues = { "$set": { "seguidores": seguidores } }
     agregar_seguidores = bd_usuarios.update_one(myquery, newvalues)
+"""

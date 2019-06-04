@@ -1,10 +1,10 @@
+import numpy as np
+import matplotlib
+import pandas as pd
+
 import pymongo
-import os
-import random
 from twython import Twython
 import pandas as pd
-import time
-
 #conexion mongo
 myclient = pymongo.MongoClient("mongodb://localhost:27017/")
 mydb = myclient["twitter-memoria"]
@@ -22,21 +22,18 @@ twitter       = Twython(APP_KEY, access_token=ACCESS_TOKEN)
 
 
 usuarios = bd_usuarios.find({})
-puntaje_por_id = {}
-puntajes = []
-lista_puntajes = []
 
 for usuario in usuarios:
     puntaje_aux = 0
+    puntaje_aux_2 = 0
     userid = usuario["id"]
     seguidores = usuario["followers_count"] + 1
     amigos = usuario["friends_count"] + 1
     estados = usuario["statuses_count"] + 1
-    puntaje_aux = ((seguidores-amigos)/(seguidores+amigos-abs(seguidores-amigos)))
-    puntaje_por_id[userid] = puntaje_aux
-    if puntaje_aux not in lista_puntajes:
-        lista_puntajes.append(puntaje_aux)
+    #puntaje_aux = ((seguidores-amigos)/(seguidores+amigos-abs(seguidores-amigos)))
+    puntaje_aux = (np.log10(seguidores))/(1+np.log10(amigos))
 
-lista_puntajes.sort()
-print(len(lista_puntajes))
-print(lista_puntajes)
+    myquery = { "id": userid }
+    newvalues = { "$set": { "puntaje_sigmo": puntaje_aux } }
+    agregar_amigos = bd_usuarios.update_one(myquery, newvalues)    
+    

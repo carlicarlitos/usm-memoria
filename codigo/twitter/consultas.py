@@ -20,16 +20,6 @@ twitter       = Twython(APP_KEY, access_token=ACCESS_TOKEN)
 
 coleccion = mydb["csv1"]
 
-lista = ["hola"]
+db_usuarios = mydb["usuarios"]
 
-for item in lista:
-    print(item)
-"""
-tweet_id = 971825194909265924
-tweet = twitter.lookup_status(id=tweet_id, tweet_mode = "extended")
-hashtags = tweet[0]["entities"]["hashtags"]
-for hashtag in hashtags:
-    print(hashtag["text"])
-
-x;
-"""
+db_usuarios.update_many({}, {'$unset': {'amigos':1}})
