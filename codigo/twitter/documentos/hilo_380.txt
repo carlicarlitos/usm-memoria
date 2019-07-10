@@ -1,0 +1,28 @@
+#NeuroThursday returns this week to conclude our series on Your Brain Lies To You. The greatest trick your brain ever pulled was convincing you that "you" exist, in a conscious sensory experience across time. https://t.co/htVrmUJNML 
+ If you're just tuning in, this mini-thread over here will link you to February's lead-in: how your brain fills in the gaps of your visual experience without your notice. https://t.co/W1gmW4bBpQ 
+ Your brain - in the visual system alone - uses guesswork and inference to create a complete sense of space, acuity, color… and, as you'll see today, time. 
+ Have you ever glanced at an analog clock (with a second hand) and thought, just for a moment, that it wasn't working? "Is that clock broken? Ah, never mind, the second hand is moving." 
+ It's a pretty common experience, sometimes called the Stopped Clock Illusion (or the delightful word "chronostasis.") We have a hypothesis for why it happens, and it may be my all-time favorite piece of neuroscience trivia. 
+ To understand the Stopped Clock Thing, I need to tell you about "saccades." There are, in short, normal eye movements. Your eyes jump from one spot to another, every time you focus on a different spot. 
+ (The other kind of eye movement is "smooth pursuit," which happens when you track a moving object. Has completely different brain mechanisms.) 
+ All kinds of fun research has been done on saccades: for example, you can use them to learn where and how people focus their attention on a painting. Take a look, you can see the saccades themselves in the jump-pause-jump pattern! https://t.co/hmtofZi7hj 
+ Part of the magic of saccades is that they don't produce any motion blur. Test it: hold your arms out, index fingers raised, shoulder-width apart. Glance from one fingertip to the other. Then imagine sweeping a video camera back and forth between those fingertips! 
+ No (or minimal) motion blur when you saccade. Why? Because your brain suppresses visual input during saccades. Low-level (brainstem) mechanisms clamp down, and nothing reaches your visual cortex. 
+ This, by the by, is why you can't see your eyes move in the mirror. Whenever your eyes are in motion, they're effectively turned off. 
+ (This suppression is useful, a valuable shortcut, just like optical illusions. If you know you'll never get visual blur from your eye movements, you can more effectively spot moving things in your environment!) 
+ But wait. Saccades are *long.* (I mean, relatively speaking.) They can last anywhere from 1/20 of a second to 1/4. Shouldn't you notice if your vision shuts off for a quarter of a second? 
+ That's where our clever and wicked brains sneak in, once again filling in those gaps. Let's walk through the Stopped Clock Illusion. 
+ The clock is working correctly, ticking along at the crowd favorite rate of one second per second. https://t.co/TUCiLqINxO 
+ You glance at the clock. By chance, your saccade occurs right over the moment when that second-hand was in motion. https://t.co/twdLYRVtLa 
+ Your brain then fills in that gap in your experience by BACKFILLING the final image over the preceding fraction of a second. https://t.co/h7XZQcm2Sg 
+ As they say on the twitters, "let that sink in." It explains the Stopped Clock Illusion: you perceive the second-hand in one position for &gt; 1 second, long enough for you to recognize that something is off… 
+ …but look at how your brain achieves that! It can shuffle and stretch sensory input without respect for chronological order. Your time-continuous visual experience is an illusion, stitched together by your brain after the fact. 
+ I repeat: you don't notice the brief moment of saccade blindness because your brain backfills the FINAL image over the PRECEDING fraction of a second. 
+ And that, my friends, is a #NeuroThursday lesson to remember: "your brain fills in the gaps" is not just for little details and optical illusions. It goes down to the very fundamentals of our conscious perceptual experience. 
+ To me, this inspires humility. Our subjective experience should be the ultimate thing where we alone know best! And yet, even there, where we think ourselves the only expert, we can get everthing deeply, fundamentally wrong. 
+ For all our expertise, we can be fooled and lied to, even where we think ourselves at the peak of our wisdom. 
+ Remember, though: I talk about your brain lying to "you," but it's only lying to itself. So maybe it's not lying at all - maybe it's storytelling. Your brain is only fooling itself, but we all need some self-deception and identity-building to live through the day. 
+ Thanks everyone! #NeuroThursday will be on pause for the rest of the month while I try to convince the National Institutes of Health to give me money. 
+ If this #NeuroThursday helped you appreciate all the hard work your brain does under the hood to fill in the gaps, share it around, ask some questions, or request a future topic! 
+ And if you're still working on your @TheHugoAwards ballot, consider my neuroscience, fiction, and editing among your Campbell Award and Best Fan Writer nominations! https://t.co/kKVidfeUh7 
+ Psst want an easier way to share this #NeuroThursday about how your most basic perceptual experiences are built from your brain's lies? Here it is in one tweet/link via Threadreader! https://t.co/AxDu0bCSQ8

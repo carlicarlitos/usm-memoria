@@ -17,9 +17,14 @@ APP_KEY = llaves["API_KEY"]
 ACCESS_TOKEN  = llaves["ACCESS_TOKEN_T"]
 twitter       = Twython(APP_KEY, access_token=ACCESS_TOKEN)
 
-
 coleccion = mydb["csv1"]
-
 db_usuarios = mydb["usuarios"]
 
-db_usuarios.update_many({}, {'$unset': {'amigos':1}})
+papi = 0
+lista = [[1,2,3,4], [5,6,7,8]]
+for l in lista:
+    if 1 in l:
+        papi = lista.index(l)
+        l.append(papi)
+
+print(lista)

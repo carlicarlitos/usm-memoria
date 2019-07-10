@@ -1,0 +1,20 @@
+My wife asked if I could make something like this photo (but a little different) so we could print it up and put it up in our house.... Um ... YES I CAN! #mathart https://t.co/MEVVTgOS0V 
+ (what I have after a bit of hacking around) https://t.co/aNiTfNBTUo 
+ Plus, any project that naturally uses phi is awesome! https://t.co/ZfM0am0BYS 
+ (why did I name it fib? Who knows, just changed it to phi and phiAngle) 
+ .@mpershan The spacing is the battle. Here’s another approach using 34 log spirals (desmos: https://t.co/CtUKrluTxS ) with 55 seeds evenly dispersed along each spiral. https://t.co/IbT9iSCbmD 
+ if you fiddle with the circle size then you get this, which is totally not the same as the original: https://t.co/28hXK7k7Nw 
+ Thanks to @_kcnarf who recognized the original image as a Phyllotaxis arragement (easy to implement too!) Here's a gif: https://t.co/tPh8WQlJpj https://t.co/5jv1RwkRqj https://t.co/5TBaD9gLB8 https://t.co/Z51Ok7cvF8 
+ @_Kcnarf Yep, that's it! The colors are randomly coming from this photo from flickr (cc allowed) https://t.co/GiZWpnLJiK 
+ @_Kcnarf (flickr link: https://t.co/KzFAnu1csj ) 
+ @_Kcnarf Here’s an improved version that grabs colors from a new source (a HDR sunset on the ocean photo) &amp; gets rid of the super light colors. First uses fibonacci numbers 34 and 55, and the second is the phyllotaxis arrangement. #mathart https://t.co/3syXJyCtUL 
+ And here’s a weird one that makes triangles out of the three closest points. https://t.co/POEeA1yV8C 
+ Phyllotaxis in desmos: https://t.co/IsuXWFELQZ (also check out @LukeSelfwalker https://t.co/oYRUfA2ueb ) https://t.co/hVqzUyX0wS 
+ And here is the fibonacci technique in desmos (tougher to do, requires a 2D list): https://t.co/TbpsQJlzWy https://t.co/3tKmkb8F8r 
+ Here's the voronoi version (distance capped out so the outside stays white) (thanks again for the inspiration Franck! https://t.co/t4deajXRgc ) https://t.co/A1flZqDvHm 
+ Voronoi of the Fibonacci version of these sketches: https://t.co/SGJCZEmFQA 
+ B&amp;W Voronoi https://t.co/Pt269hG2Ov 
+ Gif form :-) https://t.co/jRrLCXct8b 
+ The Phyllotaxis Triangles products are up on @society6 (if interested): https://t.co/IxWmrNa2G6 https://t.co/fyDjHWCa9f 
+ In other golden ratio spiral news: Tree Mountain. https://t.co/Yxxn7sL6SR 
+ Similar idea to the triangle sketch. If you start off with the center seed and make a line to the next closest seed, reduce darkness of line, and repeat. Here is 64, 256, 16384, and 32768 seeds. #mathart https://t.co/AkoAPt5tCK

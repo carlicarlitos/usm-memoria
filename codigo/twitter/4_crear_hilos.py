@@ -44,6 +44,7 @@ for hilo in hilos_ref:
     rts = 0
     favs = 0
     replies = 0
+    cant_tweets = 0
     hashtags_hilo = []
     tweets_hilo = coleccion_completa.find({"hilo_ref": hilo })
     hilo_aux = {}
@@ -53,6 +54,7 @@ for hilo in hilos_ref:
         favs += tweet_hilo["favorite_count"]
         replies += tweet_hilo["replies"]
         hashtags_tweet = tweet_hilo["hashtags"]
+        cant_tweets += 1
         csv = tweet_hilo["csv"] 
         hilo_csv = tweet_hilo["hilo"] 
         user = tweet_hilo["user"]
@@ -65,6 +67,7 @@ for hilo in hilos_ref:
     hilo_aux["csv"] = csv
     hilo_aux["hilo_csv"] = hilo_csv
     hilo_aux["usuario"] = user
+    hilo_aux["total_tweets"] = cant_tweets
     hilo_aux["total_retweet"] = rts
     hilo_aux["total_favorites"] = favs
     hilo_aux["total_replies"] = replies

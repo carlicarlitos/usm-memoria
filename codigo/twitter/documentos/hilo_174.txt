@@ -1,0 +1,19 @@
+1/ Product Management isn’t a major one can study, few folks graduate into, and most people learn by apprenticeship. There are number of dangerous myths about what the PM role is. Here is a thread with five… 
+ 2/ “PMs are mini CEOs”: This is admittedly a catchy tagline. CEOs have direct management responsibilities, decision making authority, business-level objective ownership, and often founder-level credibility for the original vision. 
+ 3/ In reality, PMs have none of these. It’s a pernicious trap, because the PMs who act as if they are mini CEO for a feature are the most likely candidates for a team organ rejection. Teammates want product leaders, not dictators. 
+ 4/ “PMs are the decision makers”: Many people who convert from another role into product see it as way to get to “make the calls”. It’s a common pattern, especially for disempowered engineers on dysfunctional product development teams. 
+ 5/ PMs are responsible for the pace and quality of decision making. Full stop. 
+ 6/ That does not, however, mean they should make even a small fraction of decisions themselves. They should be the ultimate facilitator: pull the best ideas from their team, coordinate with xfn partners, get exec context, etc. 
+ 7/ They should lay out well-researched tradeoffs, time-box deliberation, and structure great discussions. 
+ 8/ Only in rare situations should they actually “make the call”. When they do, it withdraws from their organizational capital account balance. That needs constant deposits as a counterbalance. 
+ 9/ “PMs are the idea generators”: More than any other product dev role, PMs are judged nearly exclusively on the output of their team. Unlike eng or design, there are few independent artifacts to hang their hats on. 
+ 10/ The degenerate case is PMs who think their ultimate work product is new ideas. They churn out 10x more concepts than their team could ever build. 
+ 11/ This has a two-fold downside: their team execution suffers without sufficient PM attention, and it stifles the potential creativity from non-product teammates. 
+ 12/ PMs do need to immerse themselves in context and research to prime coming up with great product ideas. In an ideal world, that’s a constant team exercise the PM just happens to drive. 
+ 13/ “PMs have to be great at company politics”: Unfortunately, at the largest companies this one is a bit true. But at companies in the thousands or smaller, that degree of politics only happens when shared alignment breaks down. 
+ 14/ Great PMs are an antidote to startup politics emerging. They keep disparate groups bought into a shared vision of where the company/product needs to head. 
+ 15/ This requires developing deep domain knowledge, communicating compelling, and setting an inspirational strategy. 
+ 16/ “PMs need technical degrees”: I believe this started with Google’s hiring of CS students directly into product, as a backlash of the MBA influx during the dot-com bubble. Though I was one of them, I disagree with the premise. 
+ 17/ While a technical foundation is certainly useful for PMs, like every hiring heuristic applied unconditionally as a filter it produces far too many false negatives. 
+ 18/ PMs do need to have a deep curiosity about the underlying tech, humility about the details, ability to develop strong partnerships with engineering, and a voracious learning appetite. 
+ 19/ In summary, just a few dangerous PM myths to avoid: mini CEO, chief decision maker, primary idea generator, political savant, and tech degree required.
