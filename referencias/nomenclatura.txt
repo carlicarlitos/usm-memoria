@@ -1,0 +1,17 @@
+total FV
+total RT
+aporte RT
+tweet
+emoción del hilo
+cantidad de hilos
+tópico
+promedio RT
+aporte RT
+total HT
+promedio HT
+cantidad HT
+largo del hilo
+puntaje sigmoídeo
+cada mes
+Followers
+tupla de emociones
