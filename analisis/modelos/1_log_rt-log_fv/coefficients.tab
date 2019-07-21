@@ -1,0 +1,5 @@
+coef	name
+continuous	string
+	meta
+0.5963644608531382	intercept
+0.9661846950338701	log_total_retweets

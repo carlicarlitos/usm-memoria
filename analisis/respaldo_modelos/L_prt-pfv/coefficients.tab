@@ -1,0 +1,5 @@
+coef	name
+continuous	string
+	meta
+-603.5396039332963	intercept
+4.4057284130596015	promedio_rt

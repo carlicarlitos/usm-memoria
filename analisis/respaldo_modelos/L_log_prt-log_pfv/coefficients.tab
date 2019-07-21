@@ -1,0 +1,5 @@
+coef	name
+continuous	string
+	meta
+0.507194771931951	intercept
+0.9841964709956996	log_prt
