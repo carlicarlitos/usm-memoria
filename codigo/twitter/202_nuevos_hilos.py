@@ -66,7 +66,7 @@ for hilo in hilos:
     sigmo = usuario["puntaje_sigmoideo"]
     hilo_aux["hilo"] = num_hilo
     hilo_aux["texto"] = " ".join(textos)
-    hilo_aux["usuario"] = user
+    hilo_aux["usuario"] =   
     hilo_aux["fecha"] = fecha
     hilo_aux["total_tweets"] = cant_tweets
     hilo_aux["total_retweet"] = rts

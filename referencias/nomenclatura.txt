@@ -1,7 +1,7 @@
 total FV
 total RT
 aporte RT
-tweet
+Tweet
 emoción del hilo
 cantidad de hilos
 tópico
@@ -14,4 +14,14 @@ largo del hilo
 puntaje sigmoídeo
 cada mes
 Followers
+Friends
+Likes
+Retweets
 tupla de emociones
+hilos
+impacto
+alcance
+entidades
+viralización
+Twittear
+influencers
